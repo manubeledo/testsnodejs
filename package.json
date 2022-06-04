@@ -1,0 +1,12 @@
+{
+  "name": "node-testing",
+  "version": "1.0.0",
+  "description": "nodetesting",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "",
+  "license": "ISC"
+}
